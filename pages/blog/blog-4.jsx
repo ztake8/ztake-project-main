@@ -1,1 +1,0 @@
-export default function Blog(){return(<div><h1>Blog 4</h1><p>Full blog content placeholder...</p></div>)}
